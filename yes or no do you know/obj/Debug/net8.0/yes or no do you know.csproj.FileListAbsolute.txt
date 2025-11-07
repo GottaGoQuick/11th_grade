@@ -1,0 +1,14 @@
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\yes or no do you know\bin\Debug\net8.0\yes or no do you know.exe
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\yes or no do you know\bin\Debug\net8.0\yes or no do you know.deps.json
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\yes or no do you know\bin\Debug\net8.0\yes or no do you know.runtimeconfig.json
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\yes or no do you know\bin\Debug\net8.0\yes or no do you know.dll
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\yes or no do you know\bin\Debug\net8.0\yes or no do you know.pdb
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\yes or no do you know\obj\Debug\net8.0\yes or no do you know.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\yes or no do you know\obj\Debug\net8.0\yes or no do you know.AssemblyInfoInputs.cache
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\yes or no do you know\obj\Debug\net8.0\yes or no do you know.AssemblyInfo.cs
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\yes or no do you know\obj\Debug\net8.0\yes or no do you know.csproj.CoreCompileInputs.cache
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\yes or no do you know\obj\Debug\net8.0\yes or no do you know.dll
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\yes or no do you know\obj\Debug\net8.0\refint\yes or no do you know.dll
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\yes or no do you know\obj\Debug\net8.0\yes or no do you know.pdb
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\yes or no do you know\obj\Debug\net8.0\yes or no do you know.genruntimeconfig.cache
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\yes or no do you know\obj\Debug\net8.0\ref\yes or no do you know.dll

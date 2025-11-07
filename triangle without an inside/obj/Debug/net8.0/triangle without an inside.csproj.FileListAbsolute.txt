@@ -1,0 +1,14 @@
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\triangle without an inside\bin\Debug\net8.0\triangle without an inside.exe
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\triangle without an inside\bin\Debug\net8.0\triangle without an inside.deps.json
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\triangle without an inside\bin\Debug\net8.0\triangle without an inside.runtimeconfig.json
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\triangle without an inside\bin\Debug\net8.0\triangle without an inside.dll
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\triangle without an inside\bin\Debug\net8.0\triangle without an inside.pdb
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\triangle without an inside\obj\Debug\net8.0\triangle without an inside.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\triangle without an inside\obj\Debug\net8.0\triangle without an inside.AssemblyInfoInputs.cache
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\triangle without an inside\obj\Debug\net8.0\triangle without an inside.AssemblyInfo.cs
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\triangle without an inside\obj\Debug\net8.0\triangle without an inside.csproj.CoreCompileInputs.cache
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\triangle without an inside\obj\Debug\net8.0\triangle without an inside.dll
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\triangle without an inside\obj\Debug\net8.0\refint\triangle without an inside.dll
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\triangle without an inside\obj\Debug\net8.0\triangle without an inside.pdb
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\triangle without an inside\obj\Debug\net8.0\triangle without an inside.genruntimeconfig.cache
+C:\Users\ayy12\OneDrive\Documents\csharpprogramsaves(dont delete!)\triangle without an inside\obj\Debug\net8.0\ref\triangle without an inside.dll
