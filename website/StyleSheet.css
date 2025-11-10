@@ -1,6 +1,17 @@
-﻿body {
+﻿head,body {
+    background-color:red;
     
 }
-th{
+table, td, th {
+    border: 10px solid blue;
 
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    
+   
+}
+th{
+    font-size:100px;
 }
